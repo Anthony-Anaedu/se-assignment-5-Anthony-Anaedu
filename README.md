@@ -438,9 +438,6 @@ By following these steps, you can effectively manage version control using Git w
 
 
 
- Submission Guidelines:
-- Your answers should be well-structured, concise, and to the point.
-- Provide screenshots or step-by-step instructions where applicable.
-- Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
+ References and sources:
+SOFTWARE PROJECT MANAGEMENT�->Key Concepts and Practices< By Chakin (PLP May 2024 class). Pro Git- Second Editiong by Scott Chacon and Ben Straub: Version 2.1.429, 2024-05-15. AI models By Chakin – PLP Academy. https://chatgpt.com ONLINE Source. ChatGPT.
 
